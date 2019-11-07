@@ -14,4 +14,4 @@ by [roy4801](https://github.com/roy4801)
 * [Final Project repo](https://github.com/roy4801/otogemu)
 * [trello](https://trello.com/b/aBNEBqJz/otogemu)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q2keY__Y6Lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* https://www.youtube.com/embed/q2keY__Y6Lg
